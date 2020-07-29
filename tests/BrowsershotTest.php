@@ -1,10 +1,10 @@
 <?php
 
-namespace Spatie\Browsershot\Test;
+namespace Ngekoding\Browsershot\Test;
 
-use Spatie\Browsershot\Browsershot;
-use Spatie\Browsershot\Exceptions\CouldNotTakeBrowsershot;
-use Spatie\Browsershot\Exceptions\ElementNotFound;
+use Ngekoding\Browsershot\Browsershot;
+use Ngekoding\Browsershot\Exceptions\CouldNotTakeBrowsershot;
+use Ngekoding\Browsershot\Exceptions\ElementNotFound;
 use Spatie\Image\Manipulations;
 use Symfony\Component\Process\Exception\ProcessFailedException;
 

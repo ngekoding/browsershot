@@ -1,7 +1,7 @@
 {
-    "name": "spatie/browsershot",
+    "name": "ngekoding/browsershot",
     "description": "Convert a webpage to an image or pdf using headless Chrome",
-    "homepage": "https://github.com/spatie/browsershot",
+    "homepage": "https://github.com/ngekoding/browsershot",
     "keywords":
     [
         "convert",
@@ -20,26 +20,28 @@
             "email": "freek@spatie.be",
             "homepage": "https://github.com/freekmurze",
             "role": "Developer"
+        },
+        {
+            "name": "Nur Muhammad",
+            "email": "blog.nurmuhammad@gmail.com",
+            "homepage": "https://github.com/ngekoding",
+            "role": "Editor"
         }
     ],
     "require": {
-        "php": "^7.1",
-        "spatie/image": "^1.5.3",
-        "spatie/temporary-directory": "^1.1",
-        "symfony/process": "^4.2|^5.0"
+        "php": "^5.6",
+        "symfony/process": "^3.4"
     },
     "require-dev": {
-        "phpunit/phpunit": "^6.1|^7.5",
-        "spatie/phpunit-snapshot-assertions": "^1.0"
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Browsershot\\": "src"
+            "Ngekoding\\Browsershot\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Browsershot\\Test\\": "tests"
+            "Ngekoding\\Browsershot\\Test\\": "tests"
         }
     },
     "scripts": {

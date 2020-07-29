@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Browsershot\Exceptions;
+namespace Ngekoding\Browsershot\Exceptions;
 
 use Exception;
 
