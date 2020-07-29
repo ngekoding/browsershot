@@ -27,7 +27,9 @@ Features:
 
 ## How to install
 
-`composer require ngekoding/browsershot`
+```bash
+composer require ngekoding/browsershot
+```
 
 Please go to the original package for full documentation.
 
