@@ -1,6 +1,5 @@
 {
     "name": "ngekoding/browsershot",
-    "version" : "1.0.0-dev",
     "description": "Convert a webpage to an image or pdf using headless Chrome",
     "homepage": "https://github.com/ngekoding/browsershot",
     "keywords":
